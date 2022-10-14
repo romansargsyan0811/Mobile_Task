@@ -1,0 +1,43 @@
+**********************************README**********************************
+
+#INFORMATION ABOUT SCRIPTS 
+
+**************GCD.SH**************
+
+In mathematics, the greatest common divisor (GCD) of two or more integers, which are not all zero, is the largest positive integer that divides each of the integers. For two integers x, y, the greatest common divisor of x and y is denoted gcd ( x , y ) {\displaystyle \gcd(x,y)} {\displaystyle \gcd(x,y)}. For example, the GCD of 8 and 12 is 4, that is, gcd ( 8 , 12 ) = 4, {gcd(8,12)=4}:
+
+-----------How to activate-----------
+	- ./gcd.sh
+	- input two number
+
+
+
+
+************MAXNUMBER.SH************
+
+We enter an array and get the largest digit from the list:
+
+
+-----------How to activate-----------
+
+	- ./maxnumber.sh
+	- input array (5 20 545 231)
+
+
+**************PCINFO.SH**************
+
+Show full information about RAM, CPU, GPU, MOTHERBOARD, OS, DISKS and USB devices.
+
+-----------How to activate-----------
+
+	- ./pcinfo -h
+	and use the flag what you need.
+
+**************PRIMENUMBER.SH**************
+
+shows all the prime numbers found in the range that the user enters:
+
+-----------How to activate-----------
+
+	- ./primenumber.sh
+	- Input the ranges 
