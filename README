@@ -1,6 +1,5 @@
-******************************************************************************************************README******************************************************************************************************
-
-#INFORMATION ABOUT SCRIPTS 
+#######INFORMATION ABOUT SCRIPTS#######
+###This task was completed for the company instygate mobile. There was a task to write scripts that will find the largest digit in the array, find the largest common divisor, find out the characteristics of the computer and its devices and find all the primes in the aisles of two digits###
 
 **************GCD.SH**************
 
@@ -8,9 +7,8 @@ In mathematics, the greatest common divisor (GCD) of two or more integers, which
 
 -----------How to activate-----------
 	- ./gcd.sh
-	- input two number
-
-
+	- Input first number
+	- Input last number
 
 
 ************MAXNUMBER.SH************
@@ -21,7 +19,7 @@ We enter an array and get the largest digit from the list:
 -----------How to activate-----------
 
 	- ./maxnumber.sh
-	- input array (5 20 545 231)
+	- Input array (5 20 545 231)
 
 
 **************PCINFO.SH**************
@@ -30,8 +28,8 @@ Show full information about RAM, CPU, GPU, MOTHERBOARD, OS, DISKS and USB device
 
 -----------How to activate-----------
 
-	- ./pcinfo -h
-	and use the flag what you need.
+	- ./pcinfo -h and use the flag what you need to check.
+
 
 **************PRIMENUMBER.SH**************
 
@@ -40,4 +38,5 @@ shows all the prime numbers found in the range that the user enters:
 -----------How to activate-----------
 
 	- ./primenumber.sh
-	- Input the ranges 
+	- Input the ranges first number 
+	- Input the ranges last number 
